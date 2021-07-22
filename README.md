@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DS-GitHub
+- 👋 Hi, I’m Dillot
 - 👀 I’m interested in: making Discord bots.
 - 🌱 I’m currently learning: Python
 - 📫 How to reach me: contact me with Discord.
