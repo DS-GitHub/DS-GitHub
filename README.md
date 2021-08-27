@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dillot
 - 👀 I’m interested in: making Discord bots.
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, C/C++
 - 📫 How to reach me: contact me with Discord.
 
 <!---
